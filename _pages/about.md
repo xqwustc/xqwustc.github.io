@@ -69,7 +69,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="100"></div>
-<div class='paper-box-text' markdown="1">
+<div class='school-box-text' markdown="1">
 2019.09 - now, Ph.D. Student.
 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
@@ -80,7 +80,7 @@ University of Chinese Academy of Sciences, Beijing.
 
 <div class='school-box'>
 <div><img src='images/qdu.png' alt="sym" width="100"></div>
-<div class='paper-box-text' markdown="1">
+<div class='school-box-text' markdown="1">
 2015.09 - 2019.06, Undergraduate.
 
 College of Computer Science and Technology.
