@@ -59,15 +59,15 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 - [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
 
 # 🎖 Honors and Awards
-- 
-- 
+- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
+- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
 
 # 📖 Educations
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2019.09 - now*, Ph.D. Student.
+2019.09 - now, Ph.D. Student.
 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
@@ -78,7 +78,7 @@ University of Chinese Academy of Sciences, Beijing.
 <div class='school-box'>
 <div><img src='images/qdu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2015.09 - 2019.06*, Undergraduate.
+2015.09 - 2019.06, Undergraduate.
 
 College of Computer Science and Technology.
 
