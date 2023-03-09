@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shilong Bao's HomePage"
-description              : "PhD. student of Institute of Information Engineering (IIE), CAS"
+description              : ""
 repository               : "statusrank/statusrank.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shilong Bao"
-  avatar           : "images/shilong.png"
+  avatar           : "images/shilong.jpg"
   bio              : "PhD. student of Institute of Information Engineering (IIE), CAS"
   location         : "Beijing, China"
   employer         :
