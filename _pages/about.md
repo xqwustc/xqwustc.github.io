@@ -63,8 +63,28 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - now*, Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). Ph.D. degree (**pursuing**).
-- *2015.09 - 2019.06*, College of Computer Science and Technology, Qingdao University (QDU). B.S. degree. 
+
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2019.09 - now*, Ph.D. Student.
+
+Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+
+University of Chinese Academy of Sciences, Beijing.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2015.09 - 2019.06*, Undergraduate.
+
+College of Computer Science and Technology.
+
+Qingdao University (QDU), Qingdao.
+</div>
+</div>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
