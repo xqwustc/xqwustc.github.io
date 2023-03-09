@@ -68,7 +68,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='images/ucas.jpg' alt="sym" width="100"></div>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2019.09 - now, Ph.D. Student.
 
@@ -79,7 +79,7 @@ University of Chinese Academy of Sciences, Beijing.
 </div>
 
 <div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="100"></div>
+<div><img src='images/qdu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2015.09 - 2019.06, Undergraduate.
 
