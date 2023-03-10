@@ -21,12 +21,13 @@ redirect_from:
 
 Hi! I'm Shilong Bao(包世龙). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS.), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Sun Yat-sen University, Shenzhen Compus, China), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (postdoc at UCAS) and [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (postdoc at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored 8 academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
+My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
 
 
 # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
+- *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -90,7 +91,7 @@ Qingdao University (QDU), Qingdao.
 </div>
 
 # 💬 Invited Talks
-- *2023.02* AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 💻 Project
-- *2020.02 - 至今*, [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve).
+- *2020.02 - 至今*: &nbsp; [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). XCurve focuses on the design criteria of the objective function for ML tasks, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the average performance of all decision thresholds during the training phase. Welcome to try now and give us feedback!
