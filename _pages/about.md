@@ -99,10 +99,10 @@ Qingdao University (QDU), Qingdao.
 <div><img src='images/Xcurve.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2020.02 - now*: &nbsp; As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
+*2020.02 - now*: &nbsp; **<font color='red'> As a core member, I participated in the development of [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve).  </font>**
 
 XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
 </div>
