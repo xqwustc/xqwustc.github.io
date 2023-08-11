@@ -67,7 +67,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 
 ### Conferences
  - *NeurIPS*: PC Member (2023)
- - *AAAI*: PC Member (2023)
+ - *AAAI*: PC Member (2023, 2024)
  - *ICML*: PC Member (2022)
 
 ### Journals
