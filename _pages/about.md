@@ -25,6 +25,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2023.09.27*: &nbsp;🎉🎉 I am honored to be granted the Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS.
 - *2023.08.04*: &nbsp;🎉🎉 Two paper has been accepted by T-PAMI 2023.
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
