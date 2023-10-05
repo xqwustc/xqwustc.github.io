@@ -79,6 +79,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
+- *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
 
@@ -115,7 +116,7 @@ Qingdao University (QDU), Qingdao.
 <div><img src='images/Xcurve.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/Xcurve_2.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/xcurve_4.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with Decision-Invariant Metrics](https://github.com/statusrank/XCurve). 
