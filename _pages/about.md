@@ -69,6 +69,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 # 📖 Services
 
 ### Conferences
+ - *CVPR*: PC Member (2024)
  - *ICLR*: PC Member (2024)
  - *NeurIPS*: PC Member (2023)
  - *AAAI*: PC Member (2023, 2024)
