@@ -69,11 +69,11 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 # 📖 Services
 
 ### Conferences
- - *CVPR*: PC Member (2024)
+ - *ICML*: PC Member (2022, 2023, 2024)
  - *ICLR*: PC Member (2024)
  - *NeurIPS*: PC Member (2023)
  - *AAAI*: PC Member (2023, 2024)
- - *ICML*: PC Member (2022)
+ - *CVPR*: PC Member (2024)
 
 ### Journals
 - IEEE Transactions on Multimedia (T-MM): Reviewer
