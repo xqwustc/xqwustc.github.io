@@ -25,8 +25,9 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024. Congrats to all!
 - *2023.09.27*: &nbsp;🎉🎉 I am honored to be granted the Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS.
-- *2023.08.04*: &nbsp;🎉🎉 Two paper has been accepted by T-PAMI 2023.
+- *2023.08.04*: &nbsp;🎉🎉 Two papers have been accepted by T-PAMI 2023. Congrats to all!
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
@@ -50,7 +51,13 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 </div>
 </div>
 
-- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
+- [Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (ICML), 2024 \| [\[Code\]](https://) \|
+
+- [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://). Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang and Qingming Huang. International Conference on Machine Learning (ICML), 2024 \| [\[Code\]](https://) \|
+
+- [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://). Zhiyong Yang, Qianqian Xu, Zitai Wang, Sicong Li, Boyu Han, **Shilong Bao**, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (ICML), 2024 \| [\[Code\]](https://) \|
+
+- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 
 - [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/abstract/document/10214222). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
 
@@ -71,12 +78,13 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 ### Conferences
  - *ICML*: PC Member (2022, 2023, 2024)
  - *ICLR*: PC Member (2024)
- - *NeurIPS*: PC Member (2023)
+ - *NeurIPS*: PC Member (2023, 2024)
  - *AAAI*: PC Member (2023, 2024)
  - *CVPR*: PC Member (2024)
 
 ### Journals
 - IEEE Transactions on Multimedia (T-MM): Reviewer
+- IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
