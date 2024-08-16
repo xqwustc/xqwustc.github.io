@@ -84,7 +84,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 ### Conferences
  - *ICML*: PC Member (2022, 2023, 2024)
- - *ICLR*: PC Member (2024)
+ - *ICLR*: PC Member (2024, 2025)
  - *NeurIPS*: PC Member (2023, 2024)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *CVPR*: PC Member (2024)
@@ -126,6 +126,8 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Invited Talks
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+  
+- *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
 
 # 💻 Project
 
