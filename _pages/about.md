@@ -19,15 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS.), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Professor at Sun Yat-sen University, Shenzhen Compus, China),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Tenure-track Assistant Professor at UCAS), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Tenure-track Assistant Professor at UCAS), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
 
 
 # 🔥 News
+- *2024.08.01*: &nbsp;🎉🎉 I am honored to be granted the Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG).
+
 - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all!
 - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all!
-- *2023.09.27*: &nbsp;🎉🎉 I am honored to be granted the Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -94,6 +95,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
+- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (京津冀5篇))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
@@ -103,7 +105,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - now, Ph.D. Student.
+2019.09 - 2024.06, Ph.D. in Computer Applied Technology.
 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
