@@ -25,10 +25,11 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2024.10.06*: &nbsp;🎉🎉 One papers have been accepted by NeurIPS 2024. Congrats to Boyu!
 - *2024.08.01*: &nbsp;🎉🎉 I am honored to be granted the Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG).
 
 - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all!
-- *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all!
+<!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -58,6 +59,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 </div>
 
+- [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398). Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
+
 - [Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/abstract/document/10553349). **Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2024. \|[\[Code\]](https://)\|
 
 - [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://arxiv.org/abs/2405.09321). Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/huacong/ReconBoost) \|
@@ -85,6 +88,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 ### Conferences
  - *ICML*: PC Member (2022, 2023, 2024)
  - *ICLR*: PC Member (2024, 2025)
+ - *AISTATS*: PC Member (2025)
  - *NeurIPS*: PC Member (2023, 2024)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *CVPR*: PC Member (2024)
@@ -92,6 +96,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 ### Journals
 - IEEE Transactions on Multimedia (T-MM): Reviewer
 - IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
+- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
