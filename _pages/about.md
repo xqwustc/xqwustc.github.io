@@ -25,10 +25,12 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+
+- *2024.12.10*: &nbsp;🎉🎉 One papers have been accepted by AAAI 2025.
 - *2024.10.06*: &nbsp;🎉🎉 One papers have been accepted by NeurIPS 2024. Congrats to Boyu!
 - *2024.08.01*: &nbsp;🎉🎉 I am honored to be granted the Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG).
 
-- *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all!
+<!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
 <!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -59,6 +61,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 </div>
 
+- [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://arxiv.org/abs/2409.20398). Zhiguang Lu, Qianqian Xu, *Shilong Bao*, and Zhiyong Yang, Qingming Huang. AAAI Conference on Artificial Intelligence (AAAI), 2025. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
+
 - [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398). Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
 
 - [Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/abstract/document/10553349). **Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2024. \|[\[Code\]](https://)\|
@@ -86,12 +90,12 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
- - *ICML*: PC Member (2022, 2023, 2024)
+ - *ICML*: PC Member (2022, 2023, 2024, 2025)
  - *ICLR*: PC Member (2024, 2025)
  - *AISTATS*: PC Member (2025)
  - *NeurIPS*: PC Member (2023, 2024)
  - *AAAI*: PC Member (2023, 2024, 2025)
- - *CVPR*: PC Member (2024)
+ - *CVPR*: PC Member (2024, 2025)
 
 ### Journals
 - IEEE Transactions on Multimedia (T-MM): Reviewer
