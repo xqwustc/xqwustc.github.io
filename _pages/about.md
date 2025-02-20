@@ -25,7 +25,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
-
+- *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by TPAMI 2025.
 - *2024.12.10*: &nbsp;🎉🎉 One papers have been accepted by AAAI 2025.
 - *2024.10.06*: &nbsp;🎉🎉 One papers have been accepted by NeurIPS 2024. Congrats to Boyu!
 - *2024.08.01*: &nbsp;🎉🎉 I am honored to be granted the Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG).
@@ -60,6 +60,8 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Spotlight, 3.5%) </font>** \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://ferry-li.github.io/SI_SOD/)
 </div>
 </div>
+
+- [AUCPro: AUC-Oriented Provable Robustness Learning](https://). **Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
 
 - [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://). Zhiguang Lu, Qianqian Xu, **Shilong Bao**, and Zhiyong Yang, Qingming Huang. AAAI Conference on Artificial Intelligence (AAAI), 2025. \|[\[Code\]](https://)\|
 
