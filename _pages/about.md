@@ -106,6 +106,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
  - *AISTATS*: PC Member (2025)
 
 ### Journals
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
 - IEEE Transactions on Multimedia (T-MM): Reviewer
 - IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
