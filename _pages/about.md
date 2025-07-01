@@ -25,9 +25,13 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2025.06.18*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
+- *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the 1st place award in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
+- *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the 1st place award in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
 - *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2024.
 - *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
 - *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by TPAMI 2025.
+
 
 <!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
 <!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
@@ -113,6 +117,9 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
+- *2025* the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
+- *2025* 1st place award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
+- *2025* 1st place award in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025).
 - *2024* ICLR Notable Reviewer 
 - *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (京津冀5篇))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
