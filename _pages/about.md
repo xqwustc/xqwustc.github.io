@@ -28,7 +28,7 @@ My research interest includes machine learning and data mining. I have authored 
 - *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
 - *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
 - *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
-- *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2024.
+- *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2025.
 - *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
 - *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by TPAMI 2025.
 
@@ -106,6 +106,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
  - *NeurIPS*: PC Member (2023, 2024, 2025)
  - *CVPR*: PC Member (2024, 2025)
  - *ICCV*: PC Member (2025)
+ - *WACV*: PC Member (2025)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *AISTATS*: PC Member (2025)
 
@@ -117,14 +118,18 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
-- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
+- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'> 全学科100篇</font>)
 - *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
 - *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
-- *2024* ICLR Notable Reviewer 
-- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (京津冀5篇))
+- *2024* ICLR Notable Reviewer (480/all) 
+- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
+- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC亚洲区域赛(青岛站))
+- *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC亚洲区域赛(西安站))
+- *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
+
 
 # 🎓 Educations
 
@@ -155,7 +160,15 @@ Qingdao University (QDU), Qingdao.
   
 - *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
 
-# 💻 Project
+
+
+# 💻 Fundings & Project
+
+
+- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025.06*: &nbsp; Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024.07*: &nbsp; Postdoctoral Fellowship Program of CPSF (中国博士后科学基金会国家资助博士后研究人员计划（B档）)
+ 
 
 <!-- <div class='school-box'>
 <div><img src='images/Xcurve.png' alt="sym" width="80"></div>
