@@ -118,16 +118,16 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
-- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'> 全学科100篇</font>)
+- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
 - *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
 - *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
-- *2024* ICLR Notable Reviewer (480/all) 
+- *2025* ICLR Notable Reviewer (480/all) 
 - *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
-- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC亚洲区域赛(青岛站))
-- *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC亚洲区域赛(西安站))
+- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
+- *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
 - *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
 
 
