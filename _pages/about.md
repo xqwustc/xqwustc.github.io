@@ -162,7 +162,7 @@ Qingdao University (QDU), Qingdao.
 
 
 
-# 💻 Fundings & Project
+# 💻 Fundings and Project
 
 
 - *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
