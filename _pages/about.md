@@ -90,7 +90,7 @@ TBD
 - *2022* The 46th ACM-ICPC Asia Regional Contest <font color='red'> Silver Medal </font> (第46届ACM-ICPC 亚洲区域赛银奖)
 - *2022* The 12th Shandong Provincial ICPC Collegiate Programming Contest <font color='red'> Gold Medal </font> (第12届山东省ICPC大学生程序设计竞赛金奖)
 - *2022* The 7th China College Computer Competition - Team Programming Ladder Contest <font color='red'> First Prize </font> (第7届中国高校计算机大赛-程序设计天梯赛团体一等奖)
-- *2020* The 12th National Undergraduate Mathematics Contest in Modeling <font color='red'> National First Prize </font> (第12届全国大学生数学竞赛国家一等奖)
+- *2020* The 12th National Undergraduate Mathematics Contest <font color='red'> National First Prize </font> (第12届全国大学生数学竞赛国家一等奖)
 
 
 
