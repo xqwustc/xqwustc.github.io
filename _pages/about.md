@@ -72,16 +72,9 @@ TBD
 - [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
 !-->
 
-# 📖 Services
-
-### Conferences
- - *ICML*: PC Member (2025)
- - *ICLR*: PC Member (2025, 2026)
- - *NeurIPS*: PC Member (2025)
- - *KDD*: PC Member (2025, 2026)
- - *AAAI*: PC Member (2026)
- - *IJCAI*: PC Member (2025)
- - *BIBM*: PC Member (2024, 2025)
+# 📚 Academic Services
+- **Conference Program Committee / Reviewer**: ICLR 2025 & 2026, AAAI 2026, ICML 2025, NeurIPS 2025, KDD 2025, WWW 2025 (Research & Short Paper), ARR 2025 (Feb), IJCAI 2025, ICME 2025, BIBM 2024 & 2025.
+- **Journal Reviewer**: Science China-Information Sciences
 
 # 🎖 Honors and Awards
 - *2024* Graduate National Scholarship, Ministry of Education of the People’s Republic of China. (研究生国家奖学金)
@@ -90,9 +83,6 @@ TBD
 - *2022* The 12th Shandong Provincial ICPC Collegiate Programming Contest <font color='red'> Gold Medal</font>. (第12届山东省ICPC大学生程序设计竞赛金奖)
 - *2022* The 7th China College Computer Competition - Team Programming Ladder Contest <font color='red'> First Prize</font>. (第7届中国高校计算机大赛-程序设计天梯赛团体一等奖)
 - *2020* The 12th National Undergraduate Mathematics Contest <font color='red'> National First Prize</font>. (第12届全国大学生数学竞赛国家一等奖)
-
-
-
 
 # 🎓 Educations
 
