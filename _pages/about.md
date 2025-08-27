@@ -116,6 +116,6 @@ University of Science and Technology of China, Hefei, China.
 
 College of Computer Science and Technology.
 
-Qingdao University (QDU), Qingdao, China.
+Qingdao University, Qingdao, China.
 </div>
 </div>
