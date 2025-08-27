@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-My name is Xianquan Wang (王宪泉). I am currently a third-year Ph.D. student (since September 2023) majoring in *Intelligence Science and Technology* at University of Science and Technology of China (USTC), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇). Prior to this, I obtained my Bachelor's degree in Computer Science and Technology from Qingdao University in 2023.
+My name is Xianquan Wang (王宪泉). I am currently a third-year Ph.D. student (since September 2023) majoring in *Intelligence Science and Technology* at University of Science and Technology of China ([USTC](https://ustc.edu.cn/)), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇). Prior to this, I obtained my Bachelor's degree in Computer Science and Technology from Qingdao University ([QDU](https://www.qdu.edu.cn/)) in 2023.
 
 My research interests lie in user modeling & personalization, and cognitive science. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including KDD, EMNLP, AAAI, and IJCAI.
 
