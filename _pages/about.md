@@ -19,9 +19,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Tenure-track Assistant Professor at UCAS), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I’m Xianquan Wang (王宪泉), currently a third-year Ph.D. student (Since Sep. 2023) in *Intelligent Science and Technology* at the University of Science and Technology of China (USTC), under the supervision of Prof. Qi Liu (刘淇) ([website](http://staff.ustc.edu.cn/~qiliuql/)). Prior to my Ph.D., I completed my Bachelor's degree in Computer Science and Technology at Qingdao University from 2019 to 2023.
 
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
+My research interests lie in user modeling & personalization, and cognitive science. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including KDD, EMNLP, AAAI, and IJCAI.
+
 
 
 # 🔥 News
@@ -101,34 +102,19 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
- - *ICML*: PC Member (2022, 2023, 2024, 2025)
- - *ICLR*: PC Member (2024, 2025)
- - *NeurIPS*: PC Member (2023, 2024, 2025)
- - *CVPR*: PC Member (2024, 2025)
- - *ICCV*: PC Member (2025)
- - *WACV*: PC Member (2025)
- - *AAAI*: PC Member (2023, 2024, 2025)
- - *AISTATS*: PC Member (2025)
-
-### Journals
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
-- IEEE Transactions on Multimedia (T-MM): Reviewer
-- IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
-- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
-- Multimedia Systems: Reviewer
+ - *ICML*: PC Member (2025)
+ - *ICLR*: PC Member (2025, 2026)
+ - *NeurIPS*: PC Member (2025)
+ - *KDD*: PC Member (2025, 2026)
+ - *AAAI*: PC Member (2026)
+ - *IJCAI*: PC Member (2025)
+ - *BIBM*: PC Member (2024, 2025)
 
 # 🎖 Honors and Awards
-- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
-- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
-- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
-- *2025* ICLR Notable Reviewer (480/all) 
-- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
-- *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
-- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
-- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
-- *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
-- *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
+- *2024* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
+- *2022* The 46th ACM-ICPC Asia Regional Contest 2022 <font color='red'> Silver Medal </font> (第46届ACM-ICPC 亚洲区域赛银奖)
+- *2021* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
+
 
 
 # 🎓 Educations
@@ -136,53 +122,19 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2024.06, Ph.D. in Computer Applied Technology.
+2023.09 - So Far, Ph.D. in Intelligent Science and Technology.
 
-Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
-
-University of Chinese Academy of Sciences, Beijing.
+University of Science and Technology of China, Hefei, China.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/qdu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate.
+2019.09 - 2023.06, Undergraduate.
 
 College of Computer Science and Technology.
 
 Qingdao University (QDU), Qingdao.
 </div>
 </div>
-
-# 💬 Invited Talks
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
-  
-- *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
-
-
-
-# 💻 Fundings and Project
-
-
-- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025.06*: &nbsp; Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024.07*: &nbsp; Postdoctoral Fellowship Program of CPSF (中国博士后科学基金会国家资助博士后研究人员计划（B档）)
- 
-
-<!-- <div class='school-box'>
-<div><img src='images/Xcurve.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1"> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/xcurve_4.png' alt="sym" width="120%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with Decision-Invariant Metrics](https://github.com/statusrank/XCurve). 
-
-- Machine learning and deep learning technologies have recently been successfully employed in many complicated high-stake decision-making applications. The goal of Xcurve learning is to learn high-quality models that can adapt to different decision conditions, which provides a systematic solution to optimize the area under different kinds of performance curves. Welcome to try now and give us feedback!
-</div>
-</div>
-
-<!-- - *2020.02 - 至今*: &nbsp; As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
-
-XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
