@@ -19,19 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Xianquan Wang (王宪泉), currently a third-year Ph.D. student (Since Sep. 2023) in *Intelligent Science and Technology* at the University of Science and Technology of China (USTC), under the supervision of Prof. Qi Liu (刘淇) ([website](http://staff.ustc.edu.cn/~qiliuql/)). Prior to my Ph.D., I completed my Bachelor's degree in Computer Science and Technology at Qingdao University from 2019 to 2023.
+Hi! I’m Xianquan Wang (王宪泉), currently a third-year Ph.D. student (Since Sep. 2023) in *Intelligent Science and Technology* at the University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇). Prior to my Ph.D., I completed my Bachelor's degree in Computer Science and Technology at Qingdao University from 2019 to 2023.
 
 My research interests lie in user modeling & personalization, and cognitive science. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including KDD, EMNLP, AAAI, and IJCAI.
 
 
 
 # 🔥 News
-- *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
-- *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
-- *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
-- *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2025.
-- *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
-- *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by TPAMI 2025.
+TBD
 
 
 <!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
@@ -40,31 +35,9 @@ My research interests lie in user modeling & personalization, and cognitive scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
+TBD
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2451-2464, 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021 (Long Talk)</div><img src='images/tpauc_icml21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
-
-Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 11820–11829, 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/SI_SOD1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://arxiv.org/pdf/2405.09782).
-
-Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Spotlight, 3.5%) </font>** \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)\| [\[Video\]](https://ferry-li.github.io/SI_SOD/) \| [\[Poster\]](https://ferry-li.github.io/SI_SOD/) \| [\[Slides\]](https://ferry-li.github.io/SI_SOD/) \| [\[Project\]](https://ferry-li.github.io/SI_SOD/)
-</div>
-</div>
-
+<!--
 - [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
 - [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?). Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
@@ -98,6 +71,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  7747–7763, 2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
 
 - [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
+!-->
 
 # 📖 Services
 
@@ -111,9 +85,13 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
  - *BIBM*: PC Member (2024, 2025)
 
 # 🎖 Honors and Awards
-- *2024* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2022* The 46th ACM-ICPC Asia Regional Contest 2022 <font color='red'> Silver Medal </font> (第46届ACM-ICPC 亚洲区域赛银奖)
-- *2021* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
+- *2024* Graduate National Scholarship, Ministry of Education of the People’s Republic of China. (研究生国家奖学金)
+- *2021* Undergraduate National Scholarship, Ministry of Education of the People’s Republic of China. (本科生国家奖学金)
+- *2022* The 46th ACM-ICPC Asia Regional Contest <font color='red'> Silver Medal </font> (第46届ACM-ICPC 亚洲区域赛银奖)
+- *2022* The 12th Shandong Provincial ICPC Collegiate Programming Contest <font color='red'> Gold Medal </font> (第12届山东省ICPC大学生程序设计竞赛金奖)
+- *2022* The 7th China College Computer Competition - Team Programming Ladder Contest <font color='red'> First Prize </font> (第7届中国高校计算机大赛-程序设计天梯赛团体一等奖)
+- *2020* The 12th National Undergraduate Mathematics Contest in Modeling <font color='red'> National First Prize </font> (第12届全国大学生数学竞赛国家一等奖)
+
 
 
 
