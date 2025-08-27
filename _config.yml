@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shilong Bao"
+title                    : "Xianquan Wang"
 description              : ""
-repository               : "statusrank/statusrank.github.io"
+repository               : "xqwustc/xqwustc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  4696968638 # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # 4696968638 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shilong Bao"
-  avatar           : "images/shilong.jpg"
-  bio              : "Post-doc Fellow with the School of Computer Science and Technology, UCAS"
-  location         : "Beijing, China"
+  name             : "Xianquan Wang"
+  avatar           : # "images/shilong.jpg"
+  bio              : "PhD Candidate, USTC"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=5ZCgkQkAAAAJ&hl=zh-CN"
-  email            : "baoshilong@ucas.ac.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Shilong-Bao/research"
+  googlescholar    : "https://scholar.google.com/citations?user=Ef7RkQcAAAAJ&hl=zh-CN"
+  email            : "wxqcn@mail.ustc.edu.cn"
+  researchgate     :  # "https://www.researchgate.net/profile/Shilong-Bao/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : statusrank
+  github           : xqwustc
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0246.html"
+  dblp             : # "https://dblp.org/pid/143/0246.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
