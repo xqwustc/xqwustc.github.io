@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Xianquan Wang (王宪泉), currently a third-year Ph.D. student (Since Sep. 2023) in *Intelligent Science and Technology* at the University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇). Prior to my Ph.D., I completed my Bachelor's degree in Computer Science and Technology at Qingdao University from 2019 to 2023.
+Hi! I’m Xianquan Wang (王宪泉), currently a third-year Ph.D. student (Since Sep. 2023) majored in *Intelligent Science and Technology* at the University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇). Prior to my Ph.D., I completed my Bachelor's degree in Computer Science and Technology at Qingdao University from 2019 to 2023.
 
 My research interests lie in user modeling & personalization, and cognitive science. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including KDD, EMNLP, AAAI, and IJCAI.
 
@@ -100,7 +100,9 @@ TBD
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2023.09 - Present, Ph.D. Candidate in Intelligent Science and Technology.
+2023.09 - Present, Ph.D. Candidate.
+
+School of Artificial Intelligence and Data Science.
   
 University of Science and Technology of China, Hefei, China.
     
@@ -114,6 +116,6 @@ University of Science and Technology of China, Hefei, China.
 
 College of Computer Science and Technology.
 
-Qingdao University (QDU), Qingdao.
+Qingdao University (QDU), Qingdao, China.
 </div>
 </div>
