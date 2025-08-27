@@ -13,6 +13,16 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <div class="author__content">
+    {% if author.avatar_description %}
+      <p class="author__avatar-description" style="font-style: italic;">{{ author.avatar_description }}</p>
+    {% endif %}
+    <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
+  </div>
+
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
