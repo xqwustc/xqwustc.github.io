@@ -100,7 +100,7 @@ TBD
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2023.09 - Present, Ph.D. in Intelligent Science and Technology.
+2023.09 - Present, Ph.D. Candidate in Intelligent Science and Technology.
   
 University of Science and Technology of China, Hefei, China.
     
