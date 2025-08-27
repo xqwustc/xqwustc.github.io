@@ -73,7 +73,7 @@ TBD
 !-->
 
 # 📚 Academic Services
-- **Conference Program Committee / Reviewer**: ICLR 2025 & 2026, AAAI 2026, ICML 2025, NeurIPS 2025, KDD 2025, WWW 2025 (Research & Short Paper), ARR 2025 (Feb), IJCAI 2025, ICME 2025, BIBM 2024 & 2025.
+- **Conference Program Committee / Reviewer**: ICLR 2025/2026, KDD 2025/2026, AAAI 2026, ICML 2025, NeurIPS 2025, WWW 2025 (Research/Short Paper), ARR 2025 (Feb), IJCAI 2025, ICME 2025, BIBM 2024/2025.
 - **Journal Reviewer**: Science China-Information Sciences
 
 # 🎖 Honors and Awards
